@@ -1,6 +1,4 @@
-Sure, here's a description for your Blackjack game program:
 
----
 
 **Blackjack Game Program Description:**
 
@@ -29,6 +27,3 @@ The purpose of this program is to provide a simple and interactive implementatio
 
 Overall, this program offers a fun and engaging way for users to enjoy the timeless game of Blackjack on their computer.
 
---- 
-
-Feel free to adjust and expand this description based on any additional features or functionalities you plan to add to your program!
